@@ -1,1 +1,2 @@
-Great cities attract ambitious people, AI too.
+Great cities attract ambitious people.
+AI too.
